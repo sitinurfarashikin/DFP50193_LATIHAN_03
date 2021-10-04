@@ -20,7 +20,7 @@
     echo "<h2>Hello $namapelajar</h2>"; #output
 
     $hadir = false;
-    $umur = 22;
+    $umur = 20;
     $nokp = '010912021170';
     
     ?>
